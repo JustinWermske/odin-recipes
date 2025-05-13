@@ -2,13 +2,13 @@
 
 ## Introduction
 This project is the HTML Foundations Recipe Project that demonstrates the following HTML skills
-    - Creating a HTML file
-    - Elements and Tags
-    - Boilerplate for HTML
-    - Working with Text
-    - Lists (unordered and ordered)
-    - Links and Images
-    - Github Repository and Pages Deployment
+- Creating a HTML file
+- Elements and Tags
+- Boilerplate for HTML
+- Working with Text
+- Lists (unordered and ordered)
+- Links and Images
+- Github Repository and Pages Deployment
 
 ## Instructions
 ### Iteration 1: initial structure
